@@ -1,3 +1,4 @@
+package main.java;
 import java.util.Scanner;
 
 public class RewardsConverter {
@@ -18,3 +19,4 @@ public class RewardsConverter {
         System.out.println("$" + input_value + " is worth " + rewardsValue.getMilesValue() + " miles");
     }
 }
+
